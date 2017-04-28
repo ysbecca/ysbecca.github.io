@@ -8,7 +8,7 @@ This blog is my attempt to write about some of my thoughts and experiences as a 
 
 This is my first and only attempt at a blog. I prefer in-person relationships with people over any other kind of relationship. However, I do enjoy reading other blogs, particularly those related to cooking, academics, computer science, and fun games to play with children.
 
-![Me](/assets/static-images/me-small.png "Me")
+![Me]({{site.baseurl}}/assets/static-images/me-small.png "Me")
 
 **I would love to hear from you**, provided that it’s not spam.
 
