@@ -22,11 +22,12 @@
           </li>
           {% endif %}
 
+          {% if site.email %}
           <li>
-            {% if site.email %}
-            <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-            {% endif %}
+            <a href="mailto:{{ site.email }}">{{ site.email }}<span class="icon icon--github">
+            {% include email.png %}</span><span class="username">{{ site.email }}</span></a>
           </li>
+          {% endif %}
         </ul>
       </div>
 
