@@ -9,6 +9,8 @@ The [matplotlib.pyplot](http://matplotlib.org/api/pyplot_api.html) library is my
 
 The only hitch is, I can never remember the syntax for basic, common things like displaying more than one plot at a time on a graph, or showing a graph with multiple lines and a matching legend box. I confess to having googled “pyplot subplots” a few too many times before writing up my own functions which do the job and are easy to use and remember.
 
+<!--excerpt-->
+
 I’m terrible at open-sourcing code, but am working on making my non-academic work available. You can view, fork, clone or anything my little library [here on GitHub](https://github.com/ysbecca/imagepy-toolkit). Here are a few examples of what it does at the moment. Displaying images in an N by N grid:
 
 ![Displaying images in a 5x5 grid]({{site.baseurl}}/assets/post-images/2017-03-19-a.png "Displaying images in a 5x5 grid")

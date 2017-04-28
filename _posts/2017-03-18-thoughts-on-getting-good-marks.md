@@ -8,6 +8,8 @@ After an undergraduate degree at McGill University and most of a masters at the 
 
 Unfortunately, I can’t say I’m an expert. But here are a few thoughts on the subject.
 
+<!--excerpt-->
+
 Looking back at all the work I’ve done, and all the sub-optimal marks I’ve received, I detect a few underlying problems. The first problem, of course, is **time**. Time is always ticking, and especially with programming, there is an exciting (and frustrating) air of mystery when it comes to determining how long something will take. I may decide to restructure and add a neat feature to my code, which seems simple enough in my head, but then I get stuck for 5 hours because I need to install a certain library and the new update to my OS changed the locations of things. Or I misspell a variable and spend 30 minutes figuring out why my algorithm does not give good performance. Or the feature wasn’t as simple as I thought. The Or’s go on and on. On the flip-side, sometimes things take an hour when you expected it to take three.
 
 Other times, there actually is enough time, but I can’t bring myself to spend it on the coursework. I’d rather be cooking peanut sesame noodles, or visiting friends, or going grocery shopping. Or there’s another coursework for another class that is just more exciting and rewarding to work on.
