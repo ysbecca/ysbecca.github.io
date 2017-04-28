@@ -2,20 +2,15 @@
 
   <div class="wrapper">
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
-            {% endif %}
-            </li> 
-        </ul>
-      </div>
 
-      <div class="footer-col footer-col-2">
+      <div class="footer-col footer-col-1">
         <ul class="social-media-list">
+          {% if site.author %}
+          <li>
+              {{ site.author | escape }}
+          </li>
+          {% endif %}
+
           {% if site.github_username %}
           <li>
             {% include icon-github.html username=site.github_username %}
@@ -24,8 +19,11 @@
 
           {% if site.email %}
           <li>
-            <a href="mailto:{{ site.email }}">{{ site.email }}<span class="icon icon--github">
-            {% include email.png %}</span><span class="username">{{ site.email }}</span></a>
+            <a href="mailto:{{ site.email }}">
+              <span class="icon icon--github">
+              <img src="{{site.baseurl}}/assets/static-images/email.png" height="16" width="16"/></span>
+              <span class="username">{{ site.email }}</span>
+            </a>
           </li>
           {% endif %}
         </ul>
