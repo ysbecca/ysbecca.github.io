@@ -33,4 +33,4 @@ exclude:
   - Gemfile.lock
 excerpt_separator: "<!--excerpt-->"
 comments: true
-disqus_shortname: ysbecca-github-io
+disqus_shortname: "ysbecca-github-io"
