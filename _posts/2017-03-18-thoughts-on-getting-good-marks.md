@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Thoughts on getting good marks, from someone who does not always get good marks"
 date:   2017-03-18 21:18:00 +0100
 categories: academics

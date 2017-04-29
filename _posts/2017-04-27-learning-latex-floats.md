@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Learning LaTeX: floats"
 date:   2017-04-27 21:18:00 +0100
 categories: academics

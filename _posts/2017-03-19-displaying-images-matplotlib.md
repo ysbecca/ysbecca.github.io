@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Displaying images and plotting stuff with matplotlib.pyplot"
 date:   2017-03-19 21:18:00 +0100
 categories: programming
