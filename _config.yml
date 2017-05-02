@@ -25,6 +25,8 @@ github_username:  ysbecca
 
 # Build settings
 markdown: kramdown
+kramdown:
+  syntax_highligher: pygments
 theme: minima
 gems:
   - jekyll-feed
@@ -34,3 +36,5 @@ exclude:
 excerpt_separator: "<!--excerpt-->"
 comments: true
 disqus_shortname: "ysbecca-github-io"
+future: true
+
