@@ -68,6 +68,10 @@ var disqus_config = function () {
 ```
 This still returned the same error. Digging around in the Chrome console gave evidence that the issue was still related to this function. Eventually I completely deleted the variable and function altogether, and mysteriously, it works!
 
+<h4>Adding SEO</h4>
+
+A minor issue for my small blog, but I added the ```jekyll-seo-tag``` gem anyways. A quick ```gem install jekyll-seo-tag``` to get the gem, then ```[% seo %]``` added to the header file.
+
 <h4>Setting up assets and templates</h4>
 
 Jekyll imposes very little structure, giving you the freedom to define your own workflow. I wanted an organised way to add assets, as well as store post ideas and post templates. I placed the assets as following, with the post images matching the _posts formatting, and an extra folder for images associated with static parts of the site.
