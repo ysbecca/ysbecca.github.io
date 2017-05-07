@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Installing TensorFlow: fixing easy-install.pth and setuptools issues"
 date:   2017-05-02 21:18:00 +0100
-categories: academics programming
+categories: programming academics
 ---
 
 I recently installed TensorFlow on my Mac OS laptop and ran into some small issues. Maybe this will be useful to someone in the future, so here's how they were resolved.

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Learning LaTeX: floats"
 date:   2017-04-27 21:18:00 +0100
-categories: academics
+categories: programming academics
 ---
 
 Up until now, I have written all my papers, reports and documents using Microsoft Word. Granted, I have used the IEEE or some other helpful Word templates on occasion, but yes, I have re-worked references and renamed figures many times, manually. Find-and-replace is very manual, as is typing numbers.

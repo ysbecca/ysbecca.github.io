@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Jekyll with GitHub hosting"
 date:   2017-04-29 21:18:00 +0100
-categories: web-development
+categories: programming web-development
 ---
 
 WordPress is a stable, well-documented, powerful blogging platform. I've developed WordPress sites, so I've seen firsthand the wide range of things it can do. But [Jekyll](https://jekyllrb.com) has been piquing my curiousity for quite some time. This post will cover how I customised a few things in my clean installation of Jekyll. [GitHub Pages](https://pages.github.com) gets credit for the free, seamless hosting.
@@ -70,7 +70,7 @@ This still returned the same error. Digging around in the Chrome console gave ev
 
 <h4>Adding SEO</h4>
 
-A minor issue for my small blog, but I added the ```jekyll-seo-tag``` gem anyways. A quick ```gem install jekyll-seo-tag``` to get the gem, then ```[% seo %]``` added to the header file.
+A minor issue for my small blog, but I added the ```jekyll-seo-tag``` gem anyways. A quick ```gem install jekyll-seo-tag``` to get the gem, ```jekyll-seo-tag``` added to the _config.yml file, then ```[% seo %]``` added to the header file before the closing ```</head>``` tag.
 
 <h4>Setting up assets and templates</h4>
 
@@ -108,11 +108,12 @@ Jekyll on the other hand, hosted for free by GitHub Pages, allows you to do ever
 
 **Concept**
 
-Working around the WordPress theme to simplify it and get the look I wanted, I couldn't help thinking that I should be writing a beautiful cooking blog. (This may as yet be a cooking blog too...) ***A completely static blog where you write in Markdown and ruby and update the site simply with a Github commit and push...*** as a developer, this just says it all. It's not as beautiful out-of-the-box as WordPress, but sometimes less is more.
+I like to use the mouse as little as possible. ***A completely static blog where you write in Markdown and ruby and update the site simply with a Github commit and push...*** as a developer, this just says it all. It's not as beautiful out-of-the-box as WordPress, but sometimes less is more.
 
 **Ease of use**
 
 WordPress initially wins the ease of use battle. While getting vanilla Jekyll running did take 10 minutes, making the tweaks I needed to make my blog do what my WordPress version had (customising layout, adding post previews, enabling comments via disqus, importing my old blog posts) took about 2 hours. Now that I've figured out the fundamentals of Jekyll, however, it's definitely winning...
+
 
 
 <h4>Other interesting Jekyll vs. WordPress comparisons</h4>

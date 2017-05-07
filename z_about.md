@@ -5,9 +5,9 @@ comments: true
 permalink: /about/
 ---
 
-This blog is my attempt to write about some of my thoughts and experiences as a post-graduate student in computer science at the [University of Leeds](https://engineering.leeds.ac.uk/computing). My research interests are machine learning, computer vision and bio-inspired computing applied to the medical field. I also like web development and algorithms.
+**I am a post-graduate student in computer science at the [University of Leeds](https://engineering.leeds.ac.uk/computing).** My research interests are machine learning, computer vision and bio-inspired computing applied to the medical field. Some side interests are back-end web development and algorithms. 
 
-This is my first and only attempt at a blog. I prefer in-person relationships with people over any other kind of relationship. However, I do enjoy reading other blogs, particularly those related to cooking, academics, computer science, and fun games to play with children.
+**I also enjoy cooking.** On multiple occasions I've wanted to try a cooking blog or a programming blog, where I could post my meal ideas and programming side projects. This blog is what happened.
 
 ![Me]({{site.baseurl}}/assets/static-images/me-small.png "Me")
 
