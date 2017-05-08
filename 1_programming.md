@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Coding
+title: A coding and cooking blog
 comments: true
 permalink: /
 ---
