@@ -40,7 +40,7 @@ My model saves both the routing/map information, as well as some additional fiel
 <%= render :partial => "map" %>
 ```
 
-Using css, I hide the ```editing-field```, ```latitude-field```, and ```longitude-field``` divs. These values are passed from my controller to tell me whether the user is viewing or editing, and the latitude and longitude of the map to display. When the user is editing, I want allow drawing and display the drawing tools. While perhaps not the most elegant solution, putting these parameters in divs with unique ID's makes them easy to access from the JavaScript.
+Using css, I hide the ```editing-field```, ```latitude-field```, and ```longitude-field``` divs. These values are passed from my controller to tell me whether the user is viewing or editing, and the latitude and longitude of the map to display. When the user is editing, I want to allow drawing and to display the drawing tools. While perhaps not the most elegant solution, putting these parameters in divs with unique ID's makes them easy to access from the JavaScript.
 
 <h4>Drawing and viewing routes as overlays</h4>
 

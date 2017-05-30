@@ -5,11 +5,11 @@ comments: true
 permalink: /about/
 ---
 
-**I am a post-graduate student in computer science at the [University of Leeds](https://engineering.leeds.ac.uk/computing).** My research interests are machine learning, computer vision and bio-inspired computing applied to the medical field. Some side interests are back-end web development (I can't design anything!) and algorithms. 
+**I am a post-graduate student in computer science at the [University of Leeds](https://engineering.leeds.ac.uk/computing).** My research interests are machine learning, computer vision and bio-inspired computing applied to the medical field. Some side interests are back-end web development (not design!) and algorithms. 
 
 **I also enjoy cooking.** On multiple occasions I've wavered between trying a cooking blog or a programming blog. This blog is what happened.
 
-**I don't like writing.** This blog is to help me practice. I also have a masters dissertation, papers, and future PhD thesis to help me practice, but writing blog posts is a much more relaxing way.
+**I don't like writing.** This blog is to help me practice. I also have a masters dissertation, papers, and future PhD thesis to help me practice, but writing blog posts is a much more relaxing practice method.
 
 ![Me]({{site.baseurl}}/assets/static-images/me-small.png "Me")
 
