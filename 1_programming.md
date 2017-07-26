@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Coding
+title: Posts
 comments: true
 permalink: /
 ---
