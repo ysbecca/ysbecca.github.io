@@ -12,7 +12,6 @@ For the fall term of 2017, I am assisting the following undergraduate modules:
 + COMP1711 Procedural Programming
 + COMP2011 Web Application Development
 
-**I don't like writing.** This blog is to help me practice.
 
 ![Me]({{site.baseurl}}/assets/static-images/me-small.png "Me")
 
