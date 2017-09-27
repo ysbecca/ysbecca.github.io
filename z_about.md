@@ -18,4 +18,4 @@ For the fall term of 2017, I am assisting the following undergraduate modules:
 
 I am on [LinkedIn](https://www.linkedin.com/in/ysbecca/) for general professional / networking contact, occasionally on [GitHub](https://github.com/ysbecca) or [BitBucket](https://bitbucket.org/ysbecca) although most of my work there is in private repositories (sorry, I'm working on changing that), and a very sporadic contributor on [StackOverflow](http://stackoverflow.com/users/1677813/ysbecca).
 
-The best way to reach me directly is via email at *ysbecca at gmail dot com* or *sc16rsmy at leeds.ac.uk*.
+The best way to reach me directly is via email at *ysbecca at gmail dot com* or *sc16rsmy at leeds.ac.uk*. For academic contact, please see my [Faculty of Engineering profile](https://engineering.leeds.ac.uk/pgr/513/Rebecca_Stone).
