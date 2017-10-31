@@ -4,6 +4,10 @@ comments: true
 title:  "Displaying images and plotting stuff with matplotlib.pyplot"
 date:   2017-03-19 21:18:00 +0100
 categories: programming
+tags:
+- python
+- matplotlib
+- pyplot
 ---
 
 The [matplotlib.pyplot](http://matplotlib.org/api/pyplot_api.html) library is my go-to for easy generation of graphs, charts, histograms and anything that can be plotted, and recently I have also been using it lots for viewing images.

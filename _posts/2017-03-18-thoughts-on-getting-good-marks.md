@@ -3,7 +3,10 @@ layout: post
 comments: true
 title:  "Thoughts on getting good marks, from someone who does not always get good marks"
 date:   2017-03-18 21:18:00 +0100
-categories: programming academics
+categories: programming
+tags:
+- academics
+- marks
 ---
 After an undergraduate degree at McGill University and most of a masters at the University of Leeds, you would think that I have learned **how to do a coursework the way the professor expects it to be done**.
 

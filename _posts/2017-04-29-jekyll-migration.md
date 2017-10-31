@@ -3,7 +3,11 @@ layout: post
 comments: true
 title:  "Jekyll with GitHub hosting"
 date:   2017-04-29 21:18:00 +0100
-categories: programming web-development
+categories: programming
+tags:
+- jekyll
+- web-development
+- github
 ---
 
 WordPress is a stable, well-documented, powerful blogging platform. I've developed WordPress sites, so I've seen firsthand the wide range of things it can do. But [Jekyll](https://jekyllrb.com) has been piquing my curiousity for quite some time. This post will cover how I customised a few things in my clean installation of Jekyll. [GitHub Pages](https://pages.github.com) gets credit for the free, seamless hosting.

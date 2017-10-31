@@ -4,6 +4,9 @@ comments: true
 title:  "Drawing and saving overlays on Google maps with Google Maps API in a Rails application"
 date:   2017-05-20 21:18:00 +0100
 categories: programming
+tags: 
+- google-maps-api
+- ruby-on-rails
 ---
 
 Google Maps has a well-documented API for customising maps with your own imagery and content. For a side project built with Ruby on Rails, I wanted to **allow users to freehand highlight routes on a map and save them for future viewing and modifying.** The best way seemed to be to use [complex polylines](https://developers.google.com/maps/documentation/javascript/examples/polyline-complex) and save the lines as an overlay paired with the map window information. Here is a straightforward way of doing it cleanly within the Rails framework.
