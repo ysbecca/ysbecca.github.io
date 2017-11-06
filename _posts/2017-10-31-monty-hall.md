@@ -4,6 +4,8 @@ comments: true
 title:  "Simple proof of solution to the Monty Hall problem"
 date:   2017-10-31 21:18:00 +0100
 categories: random
+tags:
+- logic
 ---
 
 The [Monty Hall problem](https://en.wikipedia.org/wiki/Monty_Hall_problem) was first famously solved by Marilyn vos Savant in 1990, and infamously argued by many intellects. The premise is roughly as follows:
