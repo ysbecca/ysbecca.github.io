@@ -56,6 +56,6 @@ drwxr-xr-x   12 root     staff     408  2 May 16:43 setuptools-33.1.1.dist-info
 -rw-r--r--    2 ysbecca  staff      30  2 May 16:41 setuptools.pth
 ```
 
-I gave the initial ```sudo pip3 install --upgrade tensorflow``` a run, and it worked. Hope this is helpful for anyone with similar issues!
+Now the initial ```sudo pip3 install --upgrade tensorflow```works.
 
 
