@@ -12,8 +12,8 @@ My supervisors are [Andy Bulpitt](https://scholar.google.co.uk/citations?user=9S
 For the 2017-2018 academic year, I am assisting the following undergraduate modules:
 
 + COMP1711 Procedural Programming (C)
-+ COMP2011 Web Application Development (Python + Flask)
-+ COMP1921 Programming Project (C / Java)
++ COMP2011 Web Application Development (Python with Flask)
++ COMP1921 Programming Project (C and Java)
 
 <!-- ![Me]({{site.baseurl}}/assets/static-images/me-small.png "Me") -->
 
