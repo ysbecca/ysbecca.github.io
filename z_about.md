@@ -7,7 +7,7 @@ permalink: /about/
 
 **I am a PhD student in the School of Computing at the [University of Leeds](https://engineering.leeds.ac.uk/computing).** My general research interests are machine learning, computer vision and bio-inspired computing applied to medical imaging. Specifically, I am using deep learning and computer vision algorithms to support the pathology workflow through domain-aware analysis of whole slide digital histopathology images. Some side interests are back-end application development and algorithms. 
 
-My supervisors are [Andy Bulpitt](https://scholar.google.co.uk/citations?user=9S9v3bcAAAAJ&hl=en&oi=ao), [David Hogg](https://scholar.google.co.uk/citations?user=5VJ4YPQAAAAJ&hl=en&oi=ao) and [Darren Treanor](https://scholar.google.co.uk/citations?user=tTwpjE0AAAAJ&hl=en&oi=ao).
+My supervisors are [Andy Bulpitt](https://scholar.google.co.uk/citations?user=9S9v3bcAAAAJ&hl=en&oi=ao), [David Hogg](https://scholar.google.co.uk/citations?user=5VJ4YPQAAAAJ&hl=en&oi=ao) in collaboration with [Darren Treanor](https://scholar.google.co.uk/citations?user=tTwpjE0AAAAJ&hl=en&oi=ao).
 
 For the 2017-2018 academic year, I am assisting the following undergraduate modules:
 
