@@ -9,7 +9,7 @@ permalink: /about/
 
 My supervisors are [Andy Bulpitt](https://scholar.google.co.uk/citations?user=9S9v3bcAAAAJ&hl=en&oi=ao), [David Hogg](https://scholar.google.co.uk/citations?user=5VJ4YPQAAAAJ&hl=en&oi=ao) in collaboration with [Darren Treanor](https://scholar.google.co.uk/citations?user=tTwpjE0AAAAJ&hl=en&oi=ao).
 
-For the 2017-2018 academic year, I am assisting the following undergraduate modules:
+For the 2017-2019 academic years, I am assisting the following undergraduate modules:
 
 + COMP1711 Procedural Programming (C)
 + COMP2011 Web Application Development (Python with Flask)
@@ -19,7 +19,7 @@ For the 2017-2018 academic year, I am assisting the following undergraduate modu
 
 I am on [LinkedIn](https://www.linkedin.com/in/ysbecca/) for general professional / networking contact, occasionally on [GitHub](https://github.com/ysbecca) or [BitBucket](https://bitbucket.org/ysbecca) although most of my work there is in private repositories (sorry, I'm working on changing that), and a very sporadic contributor on [StackOverflow](http://stackoverflow.com/users/1677813/ysbecca).
 
-The best way to reach me directly is via email at *ysbecca at gmail dot com* or *sc16rsmy at leeds.ac.uk*. For academic contact, please see my [Faculty of Engineering profile](https://engineering.leeds.ac.uk/pgr/513/Rebecca_Stone).
+The best way to reach me directly is via email at *ysbecca at gmail dot com* or *r.s.stone at leeds.ac.uk*. For academic contact, please see my [Faculty of Engineering profile](https://engineering.leeds.ac.uk/pgr/513/Rebecca_Stone).
 
 
 <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="ysbecca"><a class="LI-simple-link" href='https://uk.linkedin.com/in/ysbecca?trk=profile-badge'>Rebecca Stone</a></div>
